@@ -8,7 +8,7 @@ namespace MessageBoard.core
     
    public class Message
     {
-        //[Required]
+        [Required]
         public string message { get; set; }
         public int Id { get; set; }
         public string comments { get; set; }
