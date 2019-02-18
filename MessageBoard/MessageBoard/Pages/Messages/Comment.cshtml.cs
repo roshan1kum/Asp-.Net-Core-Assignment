@@ -21,6 +21,7 @@ namespace MessageBoard.Pages.Messages
         public IActionResult OnGet(int MessageId)
         {
             Messages = messageData.GetById(MessageId);
+            Messages.comments = "";
             return Page();
         }
         public IActionResult OnPost()

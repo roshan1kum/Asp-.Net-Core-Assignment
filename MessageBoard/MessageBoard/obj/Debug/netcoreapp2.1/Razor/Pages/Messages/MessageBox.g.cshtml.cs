@@ -87,7 +87,7 @@ using MessageBoard;
             WriteLiteral("</td>\r\n        <td>\r\n            ");
             EndContext();
             BeginContext(258, 194, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "cfed6341d81e470189496ae77dc973bb", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "dcae5f3ee2ca49289655b3ace36eec49", async() => {
                 BeginContext(367, 81, true);
                 WriteLiteral("\r\n                <i class=\"glyphicon glyphicon-align-justify\"></i>\r\n            ");
                 EndContext();
@@ -133,12 +133,12 @@ using MessageBoard;
             WriteLiteral("</td>\r\n        <td>\r\n            ");
             EndContext();
             BeginContext(539, 163, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "44c3a1529ab84cd1920c42dbd442d637", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "bc6b69050fe2417eab7b8610f42af098", async() => {
                 BeginContext(559, 18, true);
                 WriteLiteral("\r\n                ");
                 EndContext();
                 BeginContext(577, 103, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("button", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c0c0b0465679453e9f61d4bdd79373b7", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("button", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "78bfd1c152864276860da25f6a9c8e5d", async() => {
                 }
                 );
                 __Microsoft_AspNetCore_Mvc_TagHelpers_FormActionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.TagHelpers.FormActionTagHelper>();
@@ -197,7 +197,7 @@ using MessageBoard;
             WriteLiteral("</table>\r\n\r\n");
             EndContext();
             BeginContext(749, 64, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "e96dbe2dbc6c4826b77863b183a4533c", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "9dced6fcc79d4551a313098ef0d60db4", async() => {
                 BeginContext(797, 12, true);
                 WriteLiteral("Add New Post");
                 EndContext();

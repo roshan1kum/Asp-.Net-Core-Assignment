@@ -17,6 +17,7 @@ namespace MessageBoard.Data
         {
             var messages = db.Message.SingleOrDefault(r => r.Id == updateMessage.Id);
             messages.comments = messages.comments + "," + updateMessage.comments;
+            messages.comments = messages.comments.TrimStart(',');
             return messages;
         }
 
