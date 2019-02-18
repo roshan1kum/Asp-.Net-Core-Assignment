@@ -1,0 +1,78 @@
+C:\Users\roshan\Desktop\New folder\MessageBoard\MessageBoard\bin\Debug\netcoreapp2.1\MessageBoard.deps.json
+C:\Users\roshan\Desktop\New folder\MessageBoard\MessageBoard\bin\Debug\netcoreapp2.1\MessageBoard.runtimeconfig.json
+C:\Users\roshan\Desktop\New folder\MessageBoard\MessageBoard\bin\Debug\netcoreapp2.1\MessageBoard.runtimeconfig.dev.json
+C:\Users\roshan\Desktop\New folder\MessageBoard\MessageBoard\bin\Debug\netcoreapp2.1\MessageBoard.dll
+C:\Users\roshan\Desktop\New folder\MessageBoard\MessageBoard\bin\Debug\netcoreapp2.1\MessageBoard.pdb
+C:\Users\roshan\Desktop\New folder\MessageBoard\MessageBoard\bin\Debug\netcoreapp2.1\MessageBoard.Views.dll
+C:\Users\roshan\Desktop\New folder\MessageBoard\MessageBoard\bin\Debug\netcoreapp2.1\MessageBoard.Views.pdb
+C:\Users\roshan\Desktop\New folder\MessageBoard\MessageBoard\obj\Debug\netcoreapp2.1\MessageBoard.csprojAssemblyReference.cache
+C:\Users\roshan\Desktop\New folder\MessageBoard\MessageBoard\obj\Debug\netcoreapp2.1\MessageBoard.csproj.CoreCompileInputs.cache
+C:\Users\roshan\Desktop\New folder\MessageBoard\MessageBoard\obj\Debug\netcoreapp2.1\MessageBoard.RazorAssemblyInfo.cache
+C:\Users\roshan\Desktop\New folder\MessageBoard\MessageBoard\obj\Debug\netcoreapp2.1\MessageBoard.RazorAssemblyInfo.cs
+C:\Users\roshan\Desktop\New folder\MessageBoard\MessageBoard\obj\Debug\netcoreapp2.1\MessageBoard.AssemblyInfoInputs.cache
+C:\Users\roshan\Desktop\New folder\MessageBoard\MessageBoard\obj\Debug\netcoreapp2.1\MessageBoard.AssemblyInfo.cs
+C:\Users\roshan\Desktop\New folder\MessageBoard\MessageBoard\obj\Debug\netcoreapp2.1\MessageBoard.TagHelpers.input.cache
+C:\Users\roshan\Desktop\New folder\MessageBoard\MessageBoard\obj\Debug\netcoreapp2.1\MessageBoard.TagHelpers.output.cache
+C:\Users\roshan\Desktop\New folder\MessageBoard\MessageBoard\obj\Debug\netcoreapp2.1\MessageBoard.RazorCoreGenerate.cache
+C:\Users\roshan\Desktop\New folder\MessageBoard\MessageBoard\obj\Debug\netcoreapp2.1\Razor\Pages\About.g.cshtml.cs
+C:\Users\roshan\Desktop\New folder\MessageBoard\MessageBoard\obj\Debug\netcoreapp2.1\Razor\Pages\Contact.g.cshtml.cs
+C:\Users\roshan\Desktop\New folder\MessageBoard\MessageBoard\obj\Debug\netcoreapp2.1\Razor\Pages\Error.g.cshtml.cs
+C:\Users\roshan\Desktop\New folder\MessageBoard\MessageBoard\obj\Debug\netcoreapp2.1\Razor\Pages\Index.g.cshtml.cs
+C:\Users\roshan\Desktop\New folder\MessageBoard\MessageBoard\obj\Debug\netcoreapp2.1\Razor\Pages\Privacy.g.cshtml.cs
+C:\Users\roshan\Desktop\New folder\MessageBoard\MessageBoard\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\roshan\Desktop\New folder\MessageBoard\MessageBoard\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_Layout.g.cshtml.cs
+C:\Users\roshan\Desktop\New folder\MessageBoard\MessageBoard\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\roshan\Desktop\New folder\MessageBoard\MessageBoard\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewImports.g.cshtml.cs
+C:\Users\roshan\Desktop\New folder\MessageBoard\MessageBoard\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.g.cshtml.cs
+C:\Users\roshan\Desktop\New folder\MessageBoard\MessageBoard\obj\Debug\netcoreapp2.1\MessageBoard.RazorTargetAssemblyInfo.cache
+C:\Users\roshan\Desktop\New folder\MessageBoard\MessageBoard\obj\Debug\netcoreapp2.1\MessageBoard.RazorTargetAssemblyInfo.cs
+C:\Users\roshan\Desktop\New folder\MessageBoard\MessageBoard\obj\Debug\netcoreapp2.1\MessageBoard.Views.pdb
+C:\Users\roshan\Desktop\New folder\MessageBoard\MessageBoard\obj\Debug\netcoreapp2.1\MessageBoard.dll
+C:\Users\roshan\Desktop\New folder\MessageBoard\MessageBoard\obj\Debug\netcoreapp2.1\MessageBoard.pdb
+C:\Users\roshan\Desktop\New folder\MessageBoard\MessageBoard\obj\Debug\netcoreapp2.1\MessageBoard.csproj.CopyComplete
+C:\Users\roshan\Desktop\New folder\MessageBoard\MessageBoard\obj\Debug\netcoreapp2.1\Razor\Pages\Messages\MessageBox.g.cshtml.cs
+C:\Users\roshan\Desktop\New folder\MessageBoard\MessageBoard\bin\Debug\netcoreapp2.1\MessageBoard.core.dll
+C:\Users\roshan\Desktop\New folder\MessageBoard\MessageBoard\bin\Debug\netcoreapp2.1\MessageBoard.Data.dll
+C:\Users\roshan\Desktop\New folder\MessageBoard\MessageBoard\bin\Debug\netcoreapp2.1\MessageBoard.Data.pdb
+C:\Users\roshan\Desktop\New folder\MessageBoard\MessageBoard\bin\Debug\netcoreapp2.1\MessageBoard.core.pdb
+C:\Users\roshan\Desktop\New folder\MessageBoard\MessageBoard\obj\Debug\netcoreapp2.1\Razor\Pages\Messages\Comment.g.cshtml.cs
+C:\Users\roshan\Desktop\New folder\MessageBoard\MessageBoard\obj\Debug\netcoreapp2.1\Razor\Pages\Messages\NewPost.g.cshtml.cs
+C:\Users\roshan\Desktop\Asp .net core\MessageBoard\MessageBoard\bin\Debug\netcoreapp2.1\MessageBoard.deps.json
+C:\Users\roshan\Desktop\Asp .net core\MessageBoard\MessageBoard\bin\Debug\netcoreapp2.1\MessageBoard.runtimeconfig.json
+C:\Users\roshan\Desktop\Asp .net core\MessageBoard\MessageBoard\bin\Debug\netcoreapp2.1\MessageBoard.runtimeconfig.dev.json
+C:\Users\roshan\Desktop\Asp .net core\MessageBoard\MessageBoard\bin\Debug\netcoreapp2.1\MessageBoard.dll
+C:\Users\roshan\Desktop\Asp .net core\MessageBoard\MessageBoard\bin\Debug\netcoreapp2.1\MessageBoard.pdb
+C:\Users\roshan\Desktop\Asp .net core\MessageBoard\MessageBoard\bin\Debug\netcoreapp2.1\MessageBoard.Views.dll
+C:\Users\roshan\Desktop\Asp .net core\MessageBoard\MessageBoard\bin\Debug\netcoreapp2.1\MessageBoard.Views.pdb
+C:\Users\roshan\Desktop\Asp .net core\MessageBoard\MessageBoard\bin\Debug\netcoreapp2.1\MessageBoard.core.dll
+C:\Users\roshan\Desktop\Asp .net core\MessageBoard\MessageBoard\bin\Debug\netcoreapp2.1\MessageBoard.Data.dll
+C:\Users\roshan\Desktop\Asp .net core\MessageBoard\MessageBoard\bin\Debug\netcoreapp2.1\MessageBoard.Data.pdb
+C:\Users\roshan\Desktop\Asp .net core\MessageBoard\MessageBoard\bin\Debug\netcoreapp2.1\MessageBoard.core.pdb
+C:\Users\roshan\Desktop\Asp .net core\MessageBoard\MessageBoard\obj\Debug\netcoreapp2.1\MessageBoard.csprojAssemblyReference.cache
+C:\Users\roshan\Desktop\Asp .net core\MessageBoard\MessageBoard\obj\Debug\netcoreapp2.1\MessageBoard.csproj.CoreCompileInputs.cache
+C:\Users\roshan\Desktop\Asp .net core\MessageBoard\MessageBoard\obj\Debug\netcoreapp2.1\MessageBoard.RazorAssemblyInfo.cache
+C:\Users\roshan\Desktop\Asp .net core\MessageBoard\MessageBoard\obj\Debug\netcoreapp2.1\MessageBoard.RazorAssemblyInfo.cs
+C:\Users\roshan\Desktop\Asp .net core\MessageBoard\MessageBoard\obj\Debug\netcoreapp2.1\MessageBoard.AssemblyInfoInputs.cache
+C:\Users\roshan\Desktop\Asp .net core\MessageBoard\MessageBoard\obj\Debug\netcoreapp2.1\MessageBoard.AssemblyInfo.cs
+C:\Users\roshan\Desktop\Asp .net core\MessageBoard\MessageBoard\obj\Debug\netcoreapp2.1\MessageBoard.TagHelpers.input.cache
+C:\Users\roshan\Desktop\Asp .net core\MessageBoard\MessageBoard\obj\Debug\netcoreapp2.1\MessageBoard.TagHelpers.output.cache
+C:\Users\roshan\Desktop\Asp .net core\MessageBoard\MessageBoard\obj\Debug\netcoreapp2.1\MessageBoard.RazorCoreGenerate.cache
+C:\Users\roshan\Desktop\Asp .net core\MessageBoard\MessageBoard\obj\Debug\netcoreapp2.1\Razor\Pages\About.g.cshtml.cs
+C:\Users\roshan\Desktop\Asp .net core\MessageBoard\MessageBoard\obj\Debug\netcoreapp2.1\Razor\Pages\Contact.g.cshtml.cs
+C:\Users\roshan\Desktop\Asp .net core\MessageBoard\MessageBoard\obj\Debug\netcoreapp2.1\Razor\Pages\Error.g.cshtml.cs
+C:\Users\roshan\Desktop\Asp .net core\MessageBoard\MessageBoard\obj\Debug\netcoreapp2.1\Razor\Pages\Index.g.cshtml.cs
+C:\Users\roshan\Desktop\Asp .net core\MessageBoard\MessageBoard\obj\Debug\netcoreapp2.1\Razor\Pages\Messages\Comment.g.cshtml.cs
+C:\Users\roshan\Desktop\Asp .net core\MessageBoard\MessageBoard\obj\Debug\netcoreapp2.1\Razor\Pages\Messages\MessageBox.g.cshtml.cs
+C:\Users\roshan\Desktop\Asp .net core\MessageBoard\MessageBoard\obj\Debug\netcoreapp2.1\Razor\Pages\Messages\NewPost.g.cshtml.cs
+C:\Users\roshan\Desktop\Asp .net core\MessageBoard\MessageBoard\obj\Debug\netcoreapp2.1\Razor\Pages\Privacy.g.cshtml.cs
+C:\Users\roshan\Desktop\Asp .net core\MessageBoard\MessageBoard\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\roshan\Desktop\Asp .net core\MessageBoard\MessageBoard\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_Layout.g.cshtml.cs
+C:\Users\roshan\Desktop\Asp .net core\MessageBoard\MessageBoard\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\roshan\Desktop\Asp .net core\MessageBoard\MessageBoard\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewImports.g.cshtml.cs
+C:\Users\roshan\Desktop\Asp .net core\MessageBoard\MessageBoard\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.g.cshtml.cs
+C:\Users\roshan\Desktop\Asp .net core\MessageBoard\MessageBoard\obj\Debug\netcoreapp2.1\MessageBoard.RazorTargetAssemblyInfo.cache
+C:\Users\roshan\Desktop\Asp .net core\MessageBoard\MessageBoard\obj\Debug\netcoreapp2.1\MessageBoard.RazorTargetAssemblyInfo.cs
+C:\Users\roshan\Desktop\Asp .net core\MessageBoard\MessageBoard\obj\Debug\netcoreapp2.1\MessageBoard.Views.pdb
+C:\Users\roshan\Desktop\Asp .net core\MessageBoard\MessageBoard\obj\Debug\netcoreapp2.1\MessageBoard.csproj.CopyComplete
+C:\Users\roshan\Desktop\Asp .net core\MessageBoard\MessageBoard\obj\Debug\netcoreapp2.1\MessageBoard.dll
+C:\Users\roshan\Desktop\Asp .net core\MessageBoard\MessageBoard\obj\Debug\netcoreapp2.1\MessageBoard.pdb

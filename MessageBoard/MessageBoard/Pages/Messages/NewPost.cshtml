@@ -1,0 +1,18 @@
+﻿@page "{MessageId:int?}"
+@model NewPostModel
+@{
+}
+
+
+
+<form method="post">
+    <input type="hidden" asp-for="Message.Id"/>
+    <div class="form-group">
+        <label asp-for="Message.message"></label>
+        <input asp-for="Message.message" class="form-control"/>
+        @*<span class="text-danger" asp-validation-for="Message.message"></span>*@
+    </div>
+    <button type="submit" class="btn btn-primary">Save</button>
+</form>
+
+<a asp-page="./MessageBox" class="btn btn-default">All Messages</a>

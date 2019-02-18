@@ -1,0 +1,18 @@
+C:\Users\roshan\Desktop\New folder\MessageBoard\MessageBoard.core\bin\Debug\netcoreapp2.1\MessageBoard.core.deps.json
+C:\Users\roshan\Desktop\New folder\MessageBoard\MessageBoard.core\bin\Debug\netcoreapp2.1\MessageBoard.core.dll
+C:\Users\roshan\Desktop\New folder\MessageBoard\MessageBoard.core\bin\Debug\netcoreapp2.1\MessageBoard.core.pdb
+C:\Users\roshan\Desktop\New folder\MessageBoard\MessageBoard.core\obj\Debug\netcoreapp2.1\MessageBoard.core.csprojAssemblyReference.cache
+C:\Users\roshan\Desktop\New folder\MessageBoard\MessageBoard.core\obj\Debug\netcoreapp2.1\MessageBoard.core.csproj.CoreCompileInputs.cache
+C:\Users\roshan\Desktop\New folder\MessageBoard\MessageBoard.core\obj\Debug\netcoreapp2.1\MessageBoard.core.AssemblyInfoInputs.cache
+C:\Users\roshan\Desktop\New folder\MessageBoard\MessageBoard.core\obj\Debug\netcoreapp2.1\MessageBoard.core.AssemblyInfo.cs
+C:\Users\roshan\Desktop\New folder\MessageBoard\MessageBoard.core\obj\Debug\netcoreapp2.1\MessageBoard.core.dll
+C:\Users\roshan\Desktop\New folder\MessageBoard\MessageBoard.core\obj\Debug\netcoreapp2.1\MessageBoard.core.pdb
+C:\Users\roshan\Desktop\Asp .net core\MessageBoard\MessageBoard.core\bin\Debug\netcoreapp2.1\MessageBoard.core.deps.json
+C:\Users\roshan\Desktop\Asp .net core\MessageBoard\MessageBoard.core\bin\Debug\netcoreapp2.1\MessageBoard.core.dll
+C:\Users\roshan\Desktop\Asp .net core\MessageBoard\MessageBoard.core\bin\Debug\netcoreapp2.1\MessageBoard.core.pdb
+C:\Users\roshan\Desktop\Asp .net core\MessageBoard\MessageBoard.core\obj\Debug\netcoreapp2.1\MessageBoard.core.csprojAssemblyReference.cache
+C:\Users\roshan\Desktop\Asp .net core\MessageBoard\MessageBoard.core\obj\Debug\netcoreapp2.1\MessageBoard.core.csproj.CoreCompileInputs.cache
+C:\Users\roshan\Desktop\Asp .net core\MessageBoard\MessageBoard.core\obj\Debug\netcoreapp2.1\MessageBoard.core.AssemblyInfoInputs.cache
+C:\Users\roshan\Desktop\Asp .net core\MessageBoard\MessageBoard.core\obj\Debug\netcoreapp2.1\MessageBoard.core.AssemblyInfo.cs
+C:\Users\roshan\Desktop\Asp .net core\MessageBoard\MessageBoard.core\obj\Debug\netcoreapp2.1\MessageBoard.core.dll
+C:\Users\roshan\Desktop\Asp .net core\MessageBoard\MessageBoard.core\obj\Debug\netcoreapp2.1\MessageBoard.core.pdb

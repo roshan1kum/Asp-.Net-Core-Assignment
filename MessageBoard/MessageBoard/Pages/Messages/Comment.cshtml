@@ -1,0 +1,26 @@
+﻿@page "{MessageId:int}"
+
+@model CommentModel
+@{
+}
+<br />
+<h1>@Model.Messages.message</h1>
+<div>
+    Id:@Model.Messages.Id
+</div>
+<div>
+    Comment:@Model.Messages.comments
+</div>
+
+<form method="post">
+    <input type="hidden" asp-for="Messages.Id" />
+    <div class="form-group">
+        <label asp-for="Messages.comments"></label>
+        <input asp-for="Messages.comments" class="form-control"/>
+    </div>
+    <button class="btn btn-default" type="submit">Add Comment</button>
+        
+</form>
+
+
+<a asp-page="./MessageBox" class="btn btn-default">All Messages</a>

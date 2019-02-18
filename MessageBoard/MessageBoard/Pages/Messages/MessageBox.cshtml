@@ -1,0 +1,31 @@
+﻿@page
+@model MessageBoxModel
+@{
+}
+<h1>This is a Message Board</h1>
+
+
+<table class="table">
+    @foreach(var message in Model.Messages)
+    {
+    <tr>
+        <td>@message.message</td>
+        <td>@message.comments</td>
+        <td>
+            <a class="btn btn-lg"
+               asp-page="./Comment"
+               asp-route-MessageId="@message.Id">
+                <i class="glyphicon glyphicon-align-justify"></i>
+            </a>           
+        </td>
+        <td>@message.count</td>
+        <td>
+            <form method="post">
+                <button class="glyphicon glyphicon-thumbs-up" type="submit" asp-route-MessageId="@message.Id"></button>
+             </form>
+        </td>
+    </tr>
+    }
+</table>
+
+<a asp-page=".\NewPost" class="btn btn-primary">Add New Post</a>

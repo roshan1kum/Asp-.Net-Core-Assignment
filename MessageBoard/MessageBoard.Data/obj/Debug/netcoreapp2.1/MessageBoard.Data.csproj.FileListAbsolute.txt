@@ -1,0 +1,28 @@
+C:\Users\roshan\Desktop\New folder\MessageBoard\MessageBoard.Data\bin\Debug\netcoreapp2.1\MessageBoard.Data.deps.json
+C:\Users\roshan\Desktop\New folder\MessageBoard\MessageBoard.Data\bin\Debug\netcoreapp2.1\MessageBoard.Data.dll
+C:\Users\roshan\Desktop\New folder\MessageBoard\MessageBoard.Data\bin\Debug\netcoreapp2.1\MessageBoard.Data.pdb
+C:\Users\roshan\Desktop\New folder\MessageBoard\MessageBoard.Data\bin\Debug\netcoreapp2.1\MessageBoard.core.dll
+C:\Users\roshan\Desktop\New folder\MessageBoard\MessageBoard.Data\bin\Debug\netcoreapp2.1\MessageBoard.core.pdb
+C:\Users\roshan\Desktop\New folder\MessageBoard\MessageBoard.Data\obj\Debug\netcoreapp2.1\MessageBoard.Data.csprojAssemblyReference.cache
+C:\Users\roshan\Desktop\New folder\MessageBoard\MessageBoard.Data\obj\Debug\netcoreapp2.1\MessageBoard.Data.csproj.CoreCompileInputs.cache
+C:\Users\roshan\Desktop\New folder\MessageBoard\MessageBoard.Data\obj\Debug\netcoreapp2.1\MessageBoard.Data.AssemblyInfoInputs.cache
+C:\Users\roshan\Desktop\New folder\MessageBoard\MessageBoard.Data\obj\Debug\netcoreapp2.1\MessageBoard.Data.AssemblyInfo.cs
+C:\Users\roshan\Desktop\New folder\MessageBoard\MessageBoard.Data\obj\Debug\netcoreapp2.1\MessageBoard.Data.csproj.CopyComplete
+C:\Users\roshan\Desktop\New folder\MessageBoard\MessageBoard.Data\obj\Debug\netcoreapp2.1\MessageBoard.Data.dll
+C:\Users\roshan\Desktop\New folder\MessageBoard\MessageBoard.Data\obj\Debug\netcoreapp2.1\MessageBoard.Data.pdb
+C:\Users\roshan\Desktop\New folder\MessageBoard\MessageBoard.Data\bin\Debug\netcoreapp2.1\MessageBoard.Data.runtimeconfig.json
+C:\Users\roshan\Desktop\New folder\MessageBoard\MessageBoard.Data\bin\Debug\netcoreapp2.1\MessageBoard.Data.runtimeconfig.dev.json
+C:\Users\roshan\Desktop\Asp .net core\MessageBoard\MessageBoard.Data\bin\Debug\netcoreapp2.1\MessageBoard.Data.deps.json
+C:\Users\roshan\Desktop\Asp .net core\MessageBoard\MessageBoard.Data\bin\Debug\netcoreapp2.1\MessageBoard.Data.runtimeconfig.json
+C:\Users\roshan\Desktop\Asp .net core\MessageBoard\MessageBoard.Data\bin\Debug\netcoreapp2.1\MessageBoard.Data.runtimeconfig.dev.json
+C:\Users\roshan\Desktop\Asp .net core\MessageBoard\MessageBoard.Data\bin\Debug\netcoreapp2.1\MessageBoard.Data.dll
+C:\Users\roshan\Desktop\Asp .net core\MessageBoard\MessageBoard.Data\bin\Debug\netcoreapp2.1\MessageBoard.Data.pdb
+C:\Users\roshan\Desktop\Asp .net core\MessageBoard\MessageBoard.Data\bin\Debug\netcoreapp2.1\MessageBoard.core.dll
+C:\Users\roshan\Desktop\Asp .net core\MessageBoard\MessageBoard.Data\bin\Debug\netcoreapp2.1\MessageBoard.core.pdb
+C:\Users\roshan\Desktop\Asp .net core\MessageBoard\MessageBoard.Data\obj\Debug\netcoreapp2.1\MessageBoard.Data.csprojAssemblyReference.cache
+C:\Users\roshan\Desktop\Asp .net core\MessageBoard\MessageBoard.Data\obj\Debug\netcoreapp2.1\MessageBoard.Data.csproj.CoreCompileInputs.cache
+C:\Users\roshan\Desktop\Asp .net core\MessageBoard\MessageBoard.Data\obj\Debug\netcoreapp2.1\MessageBoard.Data.AssemblyInfoInputs.cache
+C:\Users\roshan\Desktop\Asp .net core\MessageBoard\MessageBoard.Data\obj\Debug\netcoreapp2.1\MessageBoard.Data.AssemblyInfo.cs
+C:\Users\roshan\Desktop\Asp .net core\MessageBoard\MessageBoard.Data\obj\Debug\netcoreapp2.1\MessageBoard.Data.csproj.CopyComplete
+C:\Users\roshan\Desktop\Asp .net core\MessageBoard\MessageBoard.Data\obj\Debug\netcoreapp2.1\MessageBoard.Data.dll
+C:\Users\roshan\Desktop\Asp .net core\MessageBoard\MessageBoard.Data\obj\Debug\netcoreapp2.1\MessageBoard.Data.pdb
